@@ -16,8 +16,14 @@ This website is created using:
 
 Some of the sample screenshots of the website:
 
+Webview:
+
 [![Screenshot-22.png](https://i.postimg.cc/LXJgyfQX/Screenshot-22.png)](https://postimg.cc/0MqNj6sR)
 
 [![Screenshot-23.png](https://i.postimg.cc/rsW0TTk2/Screenshot-23.png)](https://postimg.cc/Lg96kr5x)
 
 [![Screenshot-24.png](https://i.postimg.cc/sXbQbXbJ/Screenshot-24.png)](https://postimg.cc/dkmVyqs7)
+
+Mobileview:
+
+[![Screenshot-20201209-193034-Chrome.jpg](https://i.postimg.cc/Kz3r1d2J/Screenshot-20201209-193034-Chrome.jpg)](https://postimg.cc/N9YrVCLH)
