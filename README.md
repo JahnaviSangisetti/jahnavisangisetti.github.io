@@ -1,4 +1,4 @@
-# corporate-website
+# Patch & Co (corporate-website)
 A corporate website designed by Jahnavi Sangisetti
 You can test the app on your browser through this link: 
 https://jahnavisangisetti.github.io/
