@@ -5,11 +5,17 @@ https://jahnavisangisetti.github.io/
 
 I decided to create a single page website with basic couple of sections you see on most of the corporate websites. Along with using Bootstrap to create responsive blocks, I tried to apply minimalism approach to this one.
 
+Design Goals:
+1. Interface should be Mobile Friendly
+2. Interface should convey sense of calm and happiness.
+3. Consider using animations 
+4. 
+
 This website is created using:
 
 -> HTML5, CSS, and Bootstrap5.
 
--> For onscroll animations wowJS is applied.
+-> For onscroll animations wowJS(+animate.css to create scroll reveal animations) is applied.
 
 -> Google Fonts API
 
