@@ -9,7 +9,6 @@ Design Goals:
 1. Interface should be Mobile Friendly
 2. Interface should convey sense of calm and happiness.
 3. Consider using animations 
-4. 
 
 This website is created using:
 
